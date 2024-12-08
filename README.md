@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Tic Tac Toe</title>
 <style>
 body {
   font-family: sans-serif;
@@ -45,8 +43,6 @@ body {
 </style>
 </head>
 <body>
-
-<h1>Tic Tac Toe</h1>
 
 <div id="board"></div>
 
